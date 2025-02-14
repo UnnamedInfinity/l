@@ -1,5 +1,5 @@
-# Bloxd Texture Packs
-A repository containing texture packs for bloxd.io. Bellow you will find instructions on how to create your own custom texture pack.
+# l
+A repository containing artillery for bloxd.io. Bellow you will find instructions on how to create your own custom texture pack.
 
 ## Tools to help make Texture Packs
 - https://www.piskelapp.com/
